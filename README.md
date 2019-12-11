@@ -1,0 +1,3 @@
+# DatabaseAccessSample
+
+JavaでMySQLデータベースにアクセスを行うサンプル
